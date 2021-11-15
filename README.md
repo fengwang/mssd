@@ -26,6 +26,15 @@ private_key = None # your private key for Telegram bot. If set to 'None', you wi
 private_id = None # your private id for Telegram bot. If set to 'None', you will not receive training memssages.
 ```
 
+## Links to the Dataset:
+
+- [Platinum clusters](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201911068)
+- [Platinum nano particles](https://github.com/fengwang/Noise2Atom/releases/download/experimental/2019_03_26-15.35abcdf.2048px.8.8pm.tif.too_large_0_100.tif)
+- [DR9](https://www.legacysurvey.org/dr9/description/)
+- [WQY](http://wenq.org/en/)
+- [Tribolium nuclei](https://csbdeep.bioimagecomputing.com/scenarios/denoisingtribolium/)
+
+
 ## License
 
 BSD-3
