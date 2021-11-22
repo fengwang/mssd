@@ -30,6 +30,7 @@ private_id = None # your private id for Telegram bot. If set to 'None', you will
 
 - [Platinum clusters](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201911068)
 - [Platinum nano particles](https://github.com/fengwang/Noise2Atom/releases/download/experimental/2019_03_26-15.35abcdf.2048px.8.8pm.tif.too_large_0_100.tif)
+- [Platinum Atomic Images](https://doi.org/10.1186/s42649-020-00041-8)
 - [DR9](https://www.legacysurvey.org/dr9/description/)
 - [WQY](http://wenq.org/en/)
 - [Tribolium nuclei](https://csbdeep.bioimagecomputing.com/scenarios/denoisingtribolium/)
