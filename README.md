@@ -36,6 +36,11 @@ private_id = None # your private id for Telegram bot. If set to 'None', you will
 - [Tribolium nuclei](https://csbdeep.bioimagecomputing.com/scenarios/denoisingtribolium/)
 
 
+## Pre-trained models
+
+We released two pre-trained models with a GUI for STEM images, for win64 platform. You can find it from the release.
+
+
 ## License
 
 BSD-3
